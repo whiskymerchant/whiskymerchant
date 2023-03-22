@@ -6,13 +6,13 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/antonplekhov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/whiskymerchant">
-    <img src="https://img.shields.io/badge/%40whiskymerchant-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/%40whiskymerchant-blue?style=plastic&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto: anton.plekhov@gmail.com">
-    <img src="https://img.shields.io/badge/anton.plekhov@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/anton.plekhov@gmail.com-blue?style=plastic&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
 
