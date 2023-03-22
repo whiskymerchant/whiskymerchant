@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/%40whiskymerchant-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/gmail-anton.plekhov%40gmail.com-red" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/anton.plekhov@gmail.com-blue?logo=Gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
 
