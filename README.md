@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/antonplekhov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://t.me/whiskymerchant">
     <img src="https://img.shields.io/badge/%40whiskymerchant-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto: anton.plekhov@gmail.com">
