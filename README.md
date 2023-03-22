@@ -14,7 +14,8 @@
   <a href="mailto: anton.plekhov@gmail.com">
     <img src="https://img.shields.io/badge/anton.plekhov@gmail.com-blue?style=plastic&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=whiskymerchant&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=whiskymerchant&style=flat-square&color=blue" alt=""/>
+
 
