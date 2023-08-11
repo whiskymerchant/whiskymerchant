@@ -1,18 +1,16 @@
-# Приветствую вас! 👋  
+# Hey there 👋  
 
-Я - **Антон**, начинающий программист  из Москвы. Решил последовать мечте и начать кодить. 
+I'm an FMCG pro with experience across **Africa, EU, USA, and CIS**. I've worked with big names, and I even started and **sold two startups** - one for whisky and another for energy drinks. Now, I'm enjoying an early retirement, **focusing on** something new: **programming**. I'm into JS, TypeScript, React, Python, Django, HTML, CSS, and Flask. I'm also exploring cool stuff every week, like blockchain, AI, and LLMs. 
 
-**Фронт-энд** сразу позволяет видеть результат моей деятельности, что мотивирует на эксперименты. 
+**Life's good!**
 
-Продолжаю экспериментровать с Python: от его возможности работы с базами данным **захватывает дух**.
-
-# Технологии:
+# Stack:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="30" height="30"/>&nbsp;
 
-# Статистика:
+# Figures:
 <img src="https://komarev.com/ghpvc/?username=whiskymerchant&style=flat-square&color=blue" alt=""/>
 
-# Связаться со мной:
+# Get connected:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/antonplekhov/">
