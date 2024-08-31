@@ -16,7 +16,7 @@ I'm an FMCG pro with experience across **Africa, EU, USA, and CIS**. I've worked
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="30" height="30"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="30" height="30"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" title="Strapi" alt="Strapi" width="50" height="50" style="vertical-align: middle;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" title="Strapi" alt="Strapi" width="50" height="50"/>&nbsp;
 
 
 
