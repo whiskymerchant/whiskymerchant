@@ -1,6 +1,6 @@
 # Hey there 👋  
 
-I'm an FMCG pro with experience across **Africa, EU, USA, and CIS**. I've worked with big names, and I even started and **sold two startups** - one for whisky and another for energy drinks. Now, I'm enjoying an early retirement, **focusing on** something new: **programming**. I'm into JS, TypeScript, React, Python, Django, HTML, CSS, Flask, CICD, Linux, Docker, k8s, Jenkins, Strapi, etc. I'm also exploring cool stuff every week, like blockchain, AI, and LLMs. 
+I'm an FMCG pro with experience across **Africa, EU, USA, and CIS**. I've worked with big names, and I even started and **sold two startups** - one for whisky and another for energy drinks. Now, I'm enjoying an early retirement, **focusing on** something new: **programming**. I'm into JS, TypeScript, React, Python, Django, HTML, CSS, Flask, CICD, Linux, Docker, k8s, Jenkins, Strapi, Mongo, etc. I'm also exploring cool stuff every week, like blockchain, AI, and LLMs. 
 
 **Life's good!**
 
